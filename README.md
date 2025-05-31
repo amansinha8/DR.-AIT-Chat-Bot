@@ -7,7 +7,7 @@ ChatBot Link:https://cdn.botpress.cloud/webchat/v2.5/shareable.html?configUrl=ht
 ## 1. People Contributed
 - **Aman Kumar Sinha**
 - [1DA21IS008]  
-(*Add other contributors if any*)
+
 
 ## 2. Project Dependencies/Requirements
 To successfully run this chatbot, ensure the following dependencies are installed:
