@@ -50,4 +50,4 @@ Here are the key steps followed during the chatbot development:
 
 ---
 
-This README file helps other developers or users understand your chatbot’s setup, structure, and functionality. Let me know if you'd like to refine or add more details! 🚀
+This README file helps other developers or users understand my chatbot’s setup, structure, and functionality. Let me know if you'd like to refine or add more details! 
