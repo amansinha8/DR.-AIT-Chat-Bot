@@ -3,7 +3,7 @@
 ---
 
 # Dr. AIT College Assistant Chatbot
-ChatBot Link:https://cdn.botpress.cloud/webchat/v2.5/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/31/15/20250531151857-15LYVJ3C.json
+ChatBot Link:https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/31/15/20250531151857-15LYVJ3C.json
 ## 1. People Contributed
 - **Aman Kumar Sinha**
 - [1DA21IS008]  
